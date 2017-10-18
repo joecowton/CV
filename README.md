@@ -1,6 +1,7 @@
-## Your Name
+## Joe Cowton.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+In 2011 I completed an MSc in Music Production which comprised predominantly of writing DSP plug-ins. Since then I’ve earned a living as an electronic musician: touring the world several times and working with some of the most respected names and record labels in underground music. I am now looking to sidestep into the world of software and web development, combining what I've learnt on the road with the coding knowledge i hope to acquire while studying at MA.
+
 
 ## Skills
 
