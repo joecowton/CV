@@ -1,7 +1,6 @@
-## Joe Cowton.
+## Joe Cowton
 
 In 2011 I completed an MSc in Music Production which comprised predominantly of writing DSP plug-ins. Since then I’ve earned a living as an electronic musician: touring the world several times and working with some of the most respected names and record labels in underground music. I am now looking to sidestep into the world of software and web development, combining what I've learnt on the road with the coding knowledge i hope to acquire while studying at MA.
-
 
 ## Skills
 
@@ -24,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2008)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -35,17 +34,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of West England (September 2008- June 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc Music Technology
+- Distinction
+- C++, Juce, Audio DSP Development, Neural Networks, FFT Analysis.
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Livity Sound Recordings** (2010 - ongoing)    
+Co-founder / assistant label manager.
 **Company Name** (start_date to end_date)   
 *Your job title*  
