@@ -66,10 +66,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Livity Sound Recordings** (2010 - ongoing)    
-Co-founder / assistant label manager.
+- Co-founder / assistant label manager.
 
 **Idle Hands Records** (2010 - 2013)   
-Shop staff.  
+- Shop staff.  
 
 **Institute of Contemporary Arts** (2007 - 2008)
-Communications Intern, responsible for digitisation of audio lecture archive.
+
+- Communications Intern, responsible for digitisation of audio lecture archive.
