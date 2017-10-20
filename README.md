@@ -13,7 +13,6 @@ Since 2010 I’ve earned a living as an electronic musician: touring the world s
 
 - Helped grow Livity Sound from an idea in a pub to an internationally recognised label with a global fanbase
 
-
 #### Social media management / copywriting
 
 - handled combined social media reach of approx £50k across Twitter / Soundcloud / Facebook / Instagram
@@ -28,6 +27,7 @@ Since 2010 I’ve earned a living as an electronic musician: touring the world s
 
 #### Intergrating with new people
 
+- 10 years flying round the world meeting new people 
 
 #### Another Skill
 
@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (October 2008)
+#### Makers Academy (October 2017 - January 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -66,9 +66,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Livity Sound Recordings** (2010 - ongoing)    
+
 - Co-founder / assistant label manager.
 
 **Idle Hands Records** (2010 - 2013)   
+
 - Shop staff.  
 
 **Institute of Contemporary Arts** (2007 - 2008)
