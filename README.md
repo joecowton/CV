@@ -1,13 +1,15 @@
 ## Joe Cowton
 
-Since 2010 I’ve earned a living as an electronic musician: touring the world several times and working with some of the most respected names and record labels in underground music. I am now looking to sidestep into the world of software and web development, combining what I've learnt on the road with the coding knowledge i hope to acquire while studying at MA.
+I am a focused and ambitous Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise.
+
+Since 2008 I’ve earned a living as an electronic musician: touring the world several times and working with some of the most respected names in underground music. I've broadcast live on Radio 1 from Glastonbury and featured on the cover of The Wire magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
 ## Skills
 
 #### Expert level music production
 
 - Expert level user of music software: Logic, Cubase, Live, Pro Tools etc
-- released 30 + records an
+- released 30 + records
 
 #### Brand strategy
 
@@ -15,7 +17,7 @@ Since 2010 I’ve earned a living as an electronic musician: touring the world s
 
 #### Social media management / copywriting
 
-- handled combined social media reach of approx £50k across Twitter / Soundcloud / Facebook / Instagram
+- handled combined social media reach of approximately 50k across Twitter / Soundcloud / Facebook / Instagram
 - written copy for all label releases and been involved in multiple PR campaigns
 - co-ordinated release startegies across print and online media
 
@@ -29,16 +31,6 @@ Since 2010 I’ve earned a living as an electronic musician: touring the world s
 
 - 10 years flying round the world meeting new people 
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
 
 #### Makers Academy (October 2017 - January 2018)
 
