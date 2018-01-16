@@ -4,44 +4,17 @@ I am a focused and ambitous Junior Full Stack Developer, seeking a role in which
 
 Since 2008 I’ve earned a living as an electronic musician: touring the world several times and working with some of the most respected names in underground music. I've broadcast live on Radio 1 from Glastonbury and featured on the cover of The Wire magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
-## Skills
+I've recently completed an intensive three month software development course at Makers Academy, covering everything from best practices and TDD approaches to development through to comtempary software frameworks and databases. I've paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning.
 
-#### Expert level music production
-
-- Expert level user of music software: Logic, Cubase, Live, Pro Tools etc
-- released 30 + records
-
-#### Brand strategy
-
-- Helped grow Livity Sound from an idea in a pub to an internationally recognised label with a global fanbase
-
-#### Social media management / copywriting
-
-- handled combined social media reach of approximately 50k across Twitter / Soundcloud / Facebook / Instagram
-- written copy for all label releases and been involved in multiple PR campaigns
-- co-ordinated release startegies across print and online media
-
-#### Radio and podcast production
-
-- hosted and produced a monthly show on NTS radio since 2014
-- compiled numerous podcasts both music and spoken word
-- perfomed live on BBC Radio 1 multiple times
-
-#### Intergrating with new people
-
-- 10 years flying round the world meeting new people 
-
+## Education
 
 #### Makers Academy (October 2017 - January 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+- 3 month intensive bootcamp
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Node, React, Ruby, Rails, JavaScript, Sequelize, MongoDB
+- RSpec, Jasmine, Mocha, Chai
 
 #### University of West England (2008 - 2011)
 
@@ -53,7 +26,33 @@ Since 2008 I’ve earned a living as an electronic musician: touring the world s
 
 - HND Music Production and Development
 - Distinction
-- Audio production, Pro-Tools, Logic, Cubase, live recording.
+- Audio production, Pro-Tools, Logic, Cubase, live recording
+
+## Skills
+
+#### Expert level music production
+
+- Expert level user of music software: Logic, Cubase, Live, Pro Tools etc
+- released 30 + records on some of the best record labels in Europe
+
+#### Brand strategy
+
+- Helped to grow Livity Sound from an embryonic idea to an internationally recognised record label with a global fanbase
+
+#### Social media management / copywriting
+
+- handled combined social media reach of approximately 50k across Twitter / Soundcloud / Facebook / Instagram
+- co-ordinated release strategies across print and online media
+
+#### Radio and podcast production
+
+- hosted and produced a monthly show on NTS radio since 2014
+- compiled numerous podcasts both music and spoken word
+- perfomed live on BBC Radio 1 multiple times
+
+#### Intergrating with new people
+
+- 10 years flying round the world meeting and socialising with complete strangers 
 
 ## Experience
 
