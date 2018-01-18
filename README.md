@@ -1,7 +1,7 @@
 ## Joe Cowton
 
-** joecowton@gmail.com **
-** 07850523068 **
+**joecowton@gmail.com**
+**07850523068**
 
 I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
 
