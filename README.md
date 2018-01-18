@@ -18,12 +18,12 @@ I've recently completed an intensive three month software development course at 
 #### University of West England (2008 - 2011)
 
 - MSc Music Technology (Distinction)
-- C++, Juce, Audio DSP Development, Neural Networks, FFT Analysis.
+- C++, [Juce](https://juce.com/), Audio DSP Development, Neural Networks, FFT Analysis.
 
 #### School of Sound Recording, Manchester (2004-2006)
 
 - HND Music Production and Development (Distinction)
-- Audio production, Pro-Tools, Logic, Cubase, live recording
+- Audio production: Pro-Tools, Logic, Cubase, live recording
 
 ## Skills
 
