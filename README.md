@@ -4,7 +4,7 @@ I am a focused and ambitous Junior Full Stack Developer, seeking a role in which
 
 Since 2008 I’ve earned a living as an electronic musician: touring the world several times and working with some of the most respected names in underground music. I've broadcast live on Radio 1 from Glastonbury and featured on the cover of The Wire magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
-I've recently completed an intensive three month software development course at Makers Academy, covering everything from best practices and TDD approaches to development through to comtempary software frameworks and databases. I've paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning.
+I've recently completed an intensive three month software development course at Makers Academy, covering everything from best practices and TDD approaches to development through to comtemporary software frameworks and databases. I've paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code.
 
 ## Education
 
