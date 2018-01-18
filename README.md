@@ -1,19 +1,19 @@
 ## Joe Cowton
 
-I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise.
+I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
 
-Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on Radio 1 multiple times and featured on the cover of The Wire magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
+Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) multiple times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
-I've recently completed an intensive three month software development course at Makers Academy, covering everything from best practices and TDD approaches to development through to contemporary software frameworks and databases. I've paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code.
+I've recently completed an intensive three month software development course at [Makers Academy](http://www.makersacademy.com/), covering everything from best practices and TDD approaches to development through to contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code.
 
 ## Education
 
 #### Makers Academy (October 2017 - January 2018)
 
-- three month intensive boot camp
+- Three month intensive boot camp
 - OOP, TDD, MVC, DDD
-- Node, React, Ruby, Rails, JavaScript, [Sequelize](https://github.com/joecowton/database-express), MongoDB
-- RSpec, Jasmine, Mocha, Chai
+- [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express)
+- RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie)
 
 #### University of West England (2008 - 2011)
 
@@ -32,37 +32,38 @@ I've recently completed an intensive three month software development course at 
 #### Expert level music production
 
 - Expert level user of music software: Logic, Cubase, Live, Pro Tools etc
-- Released 30 + records on some of the best record labels in Europe
+- Released [30+ records](https://www.discogs.com/artist/1606986-Kowton) on some of the best electronic record labels in Europe
+- Particular attention to detail and continued self-motivation for [over a decade](http://www.factmag.com/2009/06/26/fact-mix-60-kowton-narcossist/)
 
 #### Brand strategy
 
-- Helped to grow Livity Sound from an embryonic idea to an internationally recognised record label with a global fanbase
+- Helped to grow [Livity Sound](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase
 
 #### Social media management / copywriting
 
-- Handled combined social media reach of approximately 50k across Twitter / Soundcloud / Facebook / Instagram
-- Co-ordinated release strategies across print and online media
+- Handled a personal social media reach of approximately 50k across [Twitter](https://twitter.com/kowton) / [Soundcloud](https://soundcloud.com/kowton) / [Facebook](https://www.facebook.com/kowton1/) / Instagram(https://www.instagram.com/kowton_/)
+- Co-ordinated release strategies across print and [online media](https://thump.vice.com/en_us/article/9avvyv/kowton-announces-debut-album-utility-on-livity-sound-hear-a-track-now)
 
 #### Radio and podcast production
 
-- Hosted and produced a monthly show on NTS radio since 2014
+- Hosted and produced a monthly show on [NTS Radio](https://www.nts.live/shows/livity-sound) since 2014
 - Compiled numerous podcasts both music and spoken word
-- Performed live on BBC Radio 1 multiple times
+- Performed live on BBC Radio 1 numerous times including an [Essential Mix live from Glastonbury 20016](http://www.bbc.co.uk/programmes/b07gndrb) 
 
-#### Intergrating with new people
+#### Networking
 
-- 10 years flying around the world meeting and socialising with complete strangers 
+- 10 years flying around the world meeting and socialising with promoters and industry figures 
 
-## Experience
+## Other Experience
 
 **Livity Sound Recordings** (2010 - ongoing)    
 
-- Co-founder / assistant label manager [here](http://www.idlehands.com)
+- [Co-founder](http://livitysound.com/)
 
 **Idle Hands Records** (2010 - 2013)   
 
-- Shop staff 
+- Shop staff, maintaining [website](https://idlehandsbristol.com) and ordering stock  
 
 **Institute of Contemporary Arts** (2007 - 2008)
 
-- Communications Intern, responsible for digitisation of audio lecture archive
+- Communications Intern, responsible for digitisation of [audio lecture archive](https://www.ica.art/audio)
