@@ -12,7 +12,7 @@ I've recently completed an intensive three month software development course at 
 
 - three month intensive boot camp
 - OOP, TDD, MVC, DDD
-- Node, React, Ruby, Rails, JavaScript, Sequelize, MongoDB
+- Node, React, Ruby, Rails, JavaScript, [Sequelize](https://github.com/joecowton/database-express), MongoDB
 - RSpec, Jasmine, Mocha, Chai
 
 #### University of West England (2008 - 2011)
