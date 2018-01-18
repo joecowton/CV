@@ -44,7 +44,7 @@ I've recently completed an intensive three month software development course at 
 #### Radio and podcast production
 
 - Hosted and produced a monthly show on [NTS Radio](https://www.nts.live/shows/livity-sound) since 2014
-- Compiled numerous podcasts both music and spoken word
+- Compiled numerous [podcasts](https://soundcloud.com/dkmntl/dekmantel-podcast-069-kowton) both music and spoken word
 - Performed live on BBC Radio 1 numerous times including an [Essential Mix](http://www.bbc.co.uk/programmes/b07gndrb) live from Glastonbury 2016
 
 #### Networking
@@ -63,7 +63,7 @@ I've recently completed an intensive three month software development course at 
 
 **Institute of Contemporary Arts** (2007 - 2008)
 
-- Communications Intern, responsible for digitisation of [audio lecture archive](https://www.ica.art/audio)
+- Communications intern, responsible for digitisation of [audio lecture archive](https://www.ica.art/audio)
 
 ## Other Interests
 
