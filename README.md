@@ -57,7 +57,7 @@ I've recently completed an intensive three month software development course at 
 
 **Livity Sound Recordings** (2010 - ongoing)    
 
-- Co-founder / assistant label manager [here](www.idlehands.com)
+- Co-founder / assistant label manager [here](http://www.idlehands.com)
 
 **Idle Hands Records** (2010 - 2013)   
 
