@@ -2,7 +2,7 @@
 
 I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
 
-Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) multiple times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
+Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
 I've recently completed an intensive three month software development course at [Makers Academy](http://www.makersacademy.com/), covering everything from best practices and TDD approaches to development through to contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code.
 
@@ -17,21 +17,18 @@ I've recently completed an intensive three month software development course at 
 
 #### University of West England (2008 - 2011)
 
-- MSc Music Technology (part-time)
-- Distinction
+- MSc Music Technology (Distinction)
 - C++, Juce, Audio DSP Development, Neural Networks, FFT Analysis.
 
 #### School of Sound Recording, Manchester (2004-2006)
 
-- HND Music Production and Development
-- Distinction
+- HND Music Production and Development (Distinction)
 - Audio production, Pro-Tools, Logic, Cubase, live recording
 
 ## Skills
 
 #### Expert level music production
 
-- Expert level user of music software: Logic, Cubase, Live, Pro Tools etc
 - Released [30+ records](https://www.discogs.com/artist/1606986-Kowton) on some of the best electronic record labels in Europe
 - Particular attention to detail and continued self-motivation for [over a decade](http://www.factmag.com/2009/06/26/fact-mix-60-kowton-narcossist/)
 
@@ -54,7 +51,7 @@ I've recently completed an intensive three month software development course at 
 
 - 10 years flying around the world meeting and socialising with promoters and industry figures 
 
-## Other Experience
+## Work Experience
 
 **Livity Sound Recordings** (2010 - ongoing)    
 
@@ -67,3 +64,9 @@ I've recently completed an intensive three month software development course at 
 **Institute of Contemporary Arts** (2007 - 2008)
 
 - Communications Intern, responsible for digitisation of [audio lecture archive](https://www.ica.art/audio)
+
+## Other Interests
+
+- Politics and economics // Russian authors // football podcasts // mid 90's skateboard videos // climbing hills in the North
+
+
