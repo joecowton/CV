@@ -41,14 +41,14 @@ I've recently completed an intensive three month software development course at 
 
 #### Social media management / copywriting
 
-- Handled a personal social media reach of approximately 50k across [Twitter](https://twitter.com/kowton) / [Soundcloud](https://soundcloud.com/kowton) / [Facebook](https://www.facebook.com/kowton1/) / Instagram(https://www.instagram.com/kowton_/)
+- Handled a personal social media reach of approximately 50k across [Twitter](https://twitter.com/kowton) / [Soundcloud](https://soundcloud.com/kowton) / [Facebook](https://www.facebook.com/kowton1/) / [Instagram](https://www.instagram.com/kowton_/)
 - Co-ordinated release strategies across print and [online media](https://thump.vice.com/en_us/article/9avvyv/kowton-announces-debut-album-utility-on-livity-sound-hear-a-track-now)
 
 #### Radio and podcast production
 
 - Hosted and produced a monthly show on [NTS Radio](https://www.nts.live/shows/livity-sound) since 2014
 - Compiled numerous podcasts both music and spoken word
-- Performed live on BBC Radio 1 numerous times including an [Essential Mix live from Glastonbury 20016](http://www.bbc.co.uk/programmes/b07gndrb) 
+- Performed live on BBC Radio 1 numerous times including an [Essential Mix](http://www.bbc.co.uk/programmes/b07gndrb) live from Glastonbury 2016
 
 #### Networking
 
