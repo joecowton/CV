@@ -11,9 +11,8 @@ I've recently completed an intensive three month software development course at 
 #### Makers Academy (October 2017 - January 2018)
 
 - OOP, TDD, MVC, DDD
-- [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express), [Redux](https://github.com/joecowton/foodie)
-- RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie), AWS, HTML5, Webpack
-
+- [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express), [Redux](https://github.com/joecowton/foodie), AWS, HTML5, Webpack
+- RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie)
 #### University of West England (2008 - 2011)
 
 - MSc Music Technology (Distinction)
