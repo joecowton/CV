@@ -1,7 +1,7 @@
 ## Joe Cowton 
 ##### joecowton@gmail.com 07850523068
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Twitter](http://www.twitter.com/kowton) | [Soundcloud](http://www.soundcloud.com/kowton)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Twitter](http://www.twitter.com/kowton) | [Soundcloud](http://www.soundcloud.com/kowton)
 
 I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
 
@@ -77,7 +77,7 @@ A intensive four month course which focused on:
 
 - Communications intern, responsible for digitisation of [audio lecture archive](https://www.ica.art/audio)
 
-## Other Interests
+## Hobbies and Interests
 
 - Politics and economics // Russian authors // football podcasts // mid 90's skateboard videos // climbing hills in the North
 
