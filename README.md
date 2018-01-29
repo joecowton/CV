@@ -5,7 +5,7 @@
 
 I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
 
-I've recently completed an intensive three month software development course at [Makers Academy](http://www.makersacademy.com/). During this time I've worked hard on best practices and TDD approaches to development, and vastly expanded my understanding of contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code. I'm constantly learning new skills and I'm incredibly excited to see where life as a developer takes me.
+I've recently completed an intensive four month software development course at [Makers Academy](http://www.makersacademy.com/). During this time I've worked hard on best practices and TDD approaches to development, and vastly expanded my understanding of contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code. I'm constantly learning new skills and I'm incredibly excited to see where life as a developer takes me.
 
 Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
@@ -23,9 +23,13 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 
 #### Makers Academy (October 2017 - January 2018)
 
-- OOP, TDD, MVC, DDD
-- [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express), [Redux](https://github.com/joecowton/foodie), AWS, HTML5, Webpack
-- RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie)
+A intensive four month course which focused on:
+
+- Objected oriented programming 
+- Test driven development and behaviour driven development
+- Pair programming and working in groups
+- Learning a diverse range of technologies including: 
+- [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express), [Redux](https://github.com/joecowton/foodie), AWS, HTML5, Webpack, RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie)
 
 #### University of West England (2008 - 2011)
 
