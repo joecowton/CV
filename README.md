@@ -15,7 +15,7 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-|[Discogs Lister](https://github.com/joecowton/discogs-lister) | An app to display a particular artist's releases using React and Redux. While currently a work in progress the plan is to extend this to include pages for Soundcloud, Youtube etc, forming a comprehensive overview of any musician. | React, Redux, Mocha, Chai |
+|[Discogs Reducer](https://github.com/joecowton/discogs-lister) | An app to display a particular artist's releases using React and Redux. While currently a work in progress the plan is to extend this to include pages for Soundcloud, Youtube etc, forming a comprehensive overview of any musician. | React, Redux |
 |[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was, this felt like something of a breakthrough in my trajectory as a developer. | JavaScript, Jasmine |
 |[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. My role was get stuck into Node-Express and MongoDB and create an online database for products from which we fetched data using React. We eventually connected to Tesco's API and simulated a potential real world implementation. | React, Node.js, MongoDB, Mocha |
 
