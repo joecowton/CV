@@ -1,13 +1,23 @@
 ## Joe Cowton 
 ##### joecowton@gmail.com 07850523068
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Twitter](http://www.twitter.com/kowton) | [Soundcloud](http://www.soundcloud.com/kowton)
 
 I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
 
 I've recently completed an intensive three month software development course at [Makers Academy](http://www.makersacademy.com/). During this time I've worked hard on best practices and TDD approaches to development, and vastly expanded my understanding of contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code. I'm constantly learning new skills and I'm incredibly excited to see where my new passion takes me.
 
 Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
+
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/joecowton)
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+|[Discogs Lister](https://github.com/joecowton/discogs-lister) | An app to display a particular artist's releases using React and Redux. While currently a work in progress the plan is to extend this to include pages for Soundcloud, Youtube etc, forming a comprehensive overview of any musician. | React, Redux, Mocha, Chai |
+|[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was, this felt like something of a breakthrough in my trajectory as a developer. | JavaScript, Jasmine |
+|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. My role was get stuck into Node-Express and MongoDB and create an online database for products from which we fetched data using React. We eventually connected to Tesco's API and simulated a potential real world implementation. | React, Node.js, MongoDB, Mocha |
 
 ## Education
 
