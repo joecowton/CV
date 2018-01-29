@@ -24,21 +24,21 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 #### Makers Academy (October 2017 - January 2018)
 
 A intensive four month course which focused on:
+- Objected oriented programming in [Ruby](https://github.com/joecowton/rps-challenge) and [Javascript](https://github.com/joecowton/bank)
+- Test driven development using [Jasmine](https://github.com/joecowton/gilded-rose), [Capybara](https://github.com/joecowton/makersbnb) and RSpec. 
+- Pair programming and working in groups, learning to project share on Github.
+- Using [Node-Express](https://github.com/joecowton/foodie) and [Rails](https://github.com/joecowton/instagram-challenge) to create back-end servers.
+- Front end development using React and [Redux](https://github.com/joecowton/foodie) to store data in state.
+- Working with databases using both [Sequelize](https://github.com/joecowton/database-express) and [PostgreSQL](https://github.com/joecowton/database-express), and Mongoose and MongoDB.
+- Hosting databases remotely using mLAb and ElephantSQL.
 
-- Objected oriented programming 
-- Test driven development and behaviour driven development
-- Pair programming and working in groups
-- Learning a diverse range of technologies including: 
-- [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express), [Redux](https://github.com/joecowton/foodie), AWS, HTML5, Webpack, RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie)
+#### University of West England (2008 - 2011) MSc Music Technology (Distinction)
 
-#### University of West England (2008 - 2011)
+- A three year masters course with an emphasis on developing music software in C++ using the [Juce](https://juce.com/) framework. I learned to build a number of DSP audio plugins: reverbs, delays, flangers and other time based processors. 
+- For my thesis I developed a machine learning application to extract rhythms and instrument types from audio recordings using a complex process of FFT analysis and neural networks to succesfully parse the audio. The app then replaced the sounds from the original recording with sounds of the users choice.
 
-- MSc Music Technology (Distinction)
-- C++, [Juce](https://juce.com/), Audio DSP Development, Neural Networks, FFT Analysis.
-
-#### School of Sound Recording, Manchester (2004-2006)
-
-- HND Music Production and Development (Distinction)
+#### School of Sound Recording, Manchester (2004-2006) HND Music Production and Development (Distinction)
+ 
 - Audio production: Pro-Tools, Logic, Cubase, live recording
 
 ## Skills
@@ -50,7 +50,7 @@ A intensive four month course which focused on:
 
 #### Brand strategy
 
-- Helped to grow [Livity Sound](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase
+- Helped to grow [Livity Sound](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase. We've won numerous plaudits for having a singular and original vision and sticking to it, music can be a particulalry cut-throat world but we've maintained our presence without ever compromising what we do.
 
 #### Social media management / copywriting
 
@@ -62,10 +62,6 @@ A intensive four month course which focused on:
 - Hosted and produced a monthly show on [NTS Radio](https://www.nts.live/shows/livity-sound) since 2014
 - Compiled numerous [podcasts](https://soundcloud.com/dkmntl/dekmantel-podcast-069-kowton) both music and spoken word
 - Performed live on BBC Radio 1 numerous times including an [Essential Mix](http://www.bbc.co.uk/programmes/b07gndrb) live from Glastonbury 2016
-
-#### Networking
-
-- 10 years flying around the world meeting and socialising with promoters and industry figures 
 
 ## Work Experience
 
