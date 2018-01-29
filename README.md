@@ -9,16 +9,6 @@ I've recently completed an intensive three month software development course at 
 
 Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
 
-## Projects
-
-For a complete list, see my [GitHub](https://github.com/joecowton)
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-|[Discogs Lister](https://github.com/joecowton/discogs-lister) | An app to display a particular artist's releases using React and Redux. While currently a work in progress the plan is to extend this to include pages for Soundcloud, Youtube etc, forming a comprehensive overview of any musician. | React, Redux, Mocha, Chai |
-|[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was. | JavaScript, Jasmine |
-|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. My role was get stuck into Node-Express and MongoDB and create an online database for products from which we fetched data using React. We also managed to connect to Tesco API and simulate a potential real world implementation. | React, Node.js, MongoDB, Mocha |
-
 ## Education
 
 #### Makers Academy (October 2017 - January 2018)
@@ -26,6 +16,7 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 - OOP, TDD, MVC, DDD
 - [Node](https://github.com/joecowton/foodie), [React](https://github.com/joecowton/tic-tac-toe/tree/master/my-app), [Ruby](https://github.com/joecowton/rps-challenge), [Rails](https://github.com/joecowton/instagram-challenge), [Javascript](https://github.com/joecowton/bank), [Sequelize](https://github.com/joecowton/database-express), MongoDB, [PostgreSQL](https://github.com/joecowton/database-express), [Redux](https://github.com/joecowton/foodie), AWS, HTML5, Webpack
 - RSpec, [Capybara](https://github.com/joecowton/makersbnb), [Jasmine](https://github.com/joecowton/gilded-rose), [Mocha, Chai](https://github.com/joecowton/foodie)
+
 #### University of West England (2008 - 2011)
 
 - MSc Music Technology (Distinction)
