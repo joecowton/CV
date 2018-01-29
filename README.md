@@ -14,7 +14,7 @@ Since 2008 I’ve earned a living as an electronic musician: touring the world s
 For a complete list, see my [GitHub](https://github.com/joecowton)
 
 | Project   | Description | Technologies |
-|---        |---          |---           |
+|---        |---         |---           |
 
 |[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was, this felt like something of a breakthrough. | JavaScript, Jasmine |
 |[Discogs Reducer](https://github.com/joecowton/discogs-lister) | An app to display a particular artist's releases using React and Redux. While currently a work in progress the plan is to extend this to include pages for Soundcloud, Youtube etc, forming a comprehensive overview of any musician. | React, Redux |
