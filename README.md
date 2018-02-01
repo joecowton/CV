@@ -17,7 +17,7 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 |---        |---         |---           |
 |[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was, this felt like something of a breakthrough. | JavaScript, Jasmine |
 |[Weather App](https://github.com/joecowton/react-redux-weather) | An app to display a five day forecast for a specific location. Fetchs data from a remote API using a Redux action creator and renders via React.| React, Redux, Mocha, Chai |
-|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. My role was get work with Node-Express and MongoDB to create an online database for products. We eventually connected our frontend to Tesco's API and simulated a potential real world implementation. | React, Node.js, MongoDB, Mocha |
+|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. My role was get work with Node-Express and MongoDB to create an online database for products. We eventually connected our frontend to Tesco's API and simulated a potential real world implementation. | React, Node.js, Google OAuth, MongoDB, Mocha |
 
 ## Education
 
@@ -43,26 +43,20 @@ A intensive four month course which focused on:
 
 ## Skills
 
-#### Expert level music production
+#### Collaboration
+- Both in music and coding I actively enjoy working with others, I'm sensitive to those around me and take pride in my ability to communicate effectively and dissipate conflicts when they arise.
 
-- Released [30+ records](https://www.discogs.com/artist/1606986-Kowton) on some of the best electronic record labels in Europe.
-- Particular attention to detail and continued self-motivation for [over a decade](http://www.factmag.com/2009/06/26/fact-mix-60-kowton-narcossist/).
+#### Motivation
+- As someone who's been self employed for the past ten years I've learnt to manage my time each day to maximise my productivity. In this time I've released [30+ records](https://www.discogs.com/artist/1606986-Kowton) while touring constantly and also completing my masters.
 
-#### Brand strategy
+#### Commitment
+- Having decided to embark on a life as a developer I invested £8k from my own pocket in attending the Makers Academy bootcamp. I completed the course while maintaining a reduced touring schedule only missing one days attendance due to flight cancellations.
 
-- Helped to grow [Livity Sound](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase.
-- Won numerous plaudits for having a singular and original vision and sticking to it, maintaining a consistent presence since the labels inception through perseverance and hard work.
+#### Vision
+- I helped to grow the record label I co-founded [(Livity Sound)](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase. We achieved this by making bold stylistic choices and ensuring our product was always as strong as possible, both in terms of music and presentation.
 
-#### Social media management / copywriting
-
-- Handled a personal social media reach of approximately 50k across [Twitter](https://twitter.com/kowton) / [Soundcloud](https://soundcloud.com/kowton) / [Facebook](https://www.facebook.com/kowton1/) / [Instagram](https://www.instagram.com/kowton_/).
-- Co-ordinated release strategies across print and [online media](https://thump.vice.com/en_us/article/9avvyv/kowton-announces-debut-album-utility-on-livity-sound-hear-a-track-now).
-
-#### Radio and podcast production
-
-- Hosted and produced a monthly show on [NTS Radio](https://www.nts.live/shows/livity-sound) since 2014.
-- Compiled numerous [podcasts](https://soundcloud.com/dkmntl/dekmantel-podcast-069-kowton) both music and spoken word.
-- Performed live on BBC Radio 1 numerous times including an [Essential Mix](http://www.bbc.co.uk/programmes/b07gndrb) live from Glastonbury 2016.
+#### Responsible
+Across the able and personal accounts I handled a combined social media reach of approximately 70k. Since 2014 I've hosted and produced a monthly show on London institution [NTS Radio](https://www.nts.live/shows/livity-sound) known for introducing new talent to listeners.
 
 ## Work Experience
 
