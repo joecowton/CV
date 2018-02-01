@@ -1,13 +1,13 @@
-## Joe Cowton 
+## Joe Cowton
 ##### joecowton@gmail.com 07850523068
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Twitter](http://www.twitter.com/kowton) | [Soundcloud](http://www.soundcloud.com/kowton)
 
-I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise. 
+I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise.
 
 I've recently completed an intensive four month software development course at [Makers Academy](http://www.makersacademy.com/). During this time I've worked hard on best practices and TDD approaches to development, and vastly expanded my understanding of contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code. I'm constantly learning new skills and I'm incredibly excited to see where life as a developer can take me.
 
-Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis.
+I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis. Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine. 
 
 ## Projects
 
@@ -25,7 +25,7 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 
 A intensive four month course which focused on:
 - Object oriented programming in [Ruby](https://github.com/joecowton/rps-challenge) and [Javascript](https://github.com/joecowton/bank).
-- Test driven development using [Jasmine](https://github.com/joecowton/gilded-rose), [Capybara](https://github.com/joecowton/makersbnb) and RSpec. 
+- Test driven development using [Jasmine](https://github.com/joecowton/gilded-rose), [Capybara](https://github.com/joecowton/makersbnb) and RSpec.
 - Pair programming and working in groups, learning to project share on Github.
 - Using [Node-Express](https://github.com/joecowton/foodie) and [Rails](https://github.com/joecowton/instagram-challenge) to create back-end servers.
 - Front end development using React and [Redux](https://github.com/joecowton/foodie) to store data in state.
@@ -34,11 +34,11 @@ A intensive four month course which focused on:
 
 #### University of West England (2008 - 2011) MSc Music Technology (Distinction)
 
-- A three year masters course with an emphasis on developing music software in C++ using the [Juce](https://juce.com/) framework. Built a number of DSP audio plugins: reverbs, delays, flangers and other time based processors. 
+- A three year masters course with an emphasis on developing music software in C++ using the [Juce](https://juce.com/) framework. Built a number of DSP audio plugins: reverbs, delays, flangers and other time based processors.
 - Developed a machine learning application to extract rhythms and instrument types from audio recordings using a complex process involving FFT analysis and neural networks to successfully parse the audio. The app then replaced the sounds from the original recording with sounds of the users choice.
 
 #### School of Sound Recording, Manchester (2004-2006) HND Music Production and Development (Distinction)
- 
+
 - Audio production: Pro-Tools, Logic, Cubase, live recording.
 
 ## Skills
@@ -50,7 +50,7 @@ A intensive four month course which focused on:
 
 #### Brand strategy
 
-- Helped to grow [Livity Sound](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase. 
+- Helped to grow [Livity Sound](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase.
 - Won numerous plaudits for having a singular and original vision and sticking to it, maintaining a consistent presence since the labels inception through perseverance and hard work.
 
 #### Social media management / copywriting
@@ -72,7 +72,7 @@ A intensive four month course which focused on:
 
 **Idle Hands Records** (2010 - 2013)   
 
-- Shop staff, maintaining [website](https://idlehandsbristol.com) and ordering stock. 
+- Shop staff, maintaining [website](https://idlehandsbristol.com) and ordering stock.
 
 **Institute of Contemporary Arts** (2007 - 2008)
 
@@ -81,6 +81,3 @@ A intensive four month course which focused on:
 ## Hobbies and Interests
 
 - Politics and economics // Russian authors // football podcasts // mid 90's skateboard videos // climbing hills in the North
-
-
-
