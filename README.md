@@ -17,13 +17,13 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 |---        |---         |---           |
 |[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was, this felt like something of a breakthrough. | JavaScript, Jasmine |
 |[Weather App](https://github.com/joecowton/react-redux-weather) | An app to display a five day forecast for a specific location. Fetchs data from a remote API using a Redux action creator and renders via React.| React, Redux, Mocha, Chai |
-|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. My role was get work with Node-Express and MongoDB to create an online database for products. We eventually connected our frontend to Tesco's API and simulated a potential real world implementation. | React, Node.js, Google OAuth, MongoDB, Mocha |
+|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. I created remote database using MongoDB and a series of Express routes by which to access it.| React, Node.js, Google OAuth, MongoDB |
 
 ## Education
 
 #### Makers Academy (October 2017 - January 2018)
 
-A intensive four month course which focused on:
+An intensive four month course which focused on:
 - Object oriented programming in [Ruby](https://github.com/joecowton/rps-challenge) and [Javascript](https://github.com/joecowton/bank).
 - Test driven development using [Jasmine](https://github.com/joecowton/gilded-rose), [Capybara](https://github.com/joecowton/makersbnb) and RSpec.
 - Pair programming and working in groups, learning to project share on Github.
