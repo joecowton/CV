@@ -35,7 +35,7 @@ A intensive four month course which focused on:
 #### University of West England (2008 - 2011) MSc Music Technology (Distinction)
 
 - A three year masters course with an emphasis on developing music software in C++ using the [Juce](https://juce.com/) framework. Built a number of DSP audio plugins: reverbs, delays, flangers and other time based processors.
-- Developed a machine learning application to extract rhythms and instrument types from audio recordings using a complex process involving FFT analysis and neural networks to successfully parse the audio. The app then replaced the sounds from the original recording with sounds of the users choice.
+- Developed a machine learning application to extract rhythms and instrument types from audio recordings using a complex process involving [FFT analysis](https://en.wikipedia.org/wiki/Fast_Fourier_transform) and neural networks to successfully parse the audio. The app then replaced the sounds from the original recording with sounds of the users choice.
 
 #### School of Sound Recording, Manchester (2004-2006) HND Music Production and Development (Distinction)
 
@@ -44,19 +44,19 @@ A intensive four month course which focused on:
 ## Skills
 
 #### Collaboration
-- Both in music and coding I actively enjoy working with others, I'm sensitive to those around me and take pride in my ability to communicate effectively and dissipate conflicts when they arise.
+- Both in [music](https://www.residentadvisor.net/features/2102) and [coding](https://github.com/joecowton/makers-bnb) I actively enjoy working with others. I am sensitive to those around me and take pride in my ability to communicate effectively and dissipate conflicts when they arise.
 
 #### Motivation
-- As someone who's been self employed for the past ten years I've learnt to manage my time each day to maximise my productivity. In this time I've released [30+ records](https://www.discogs.com/artist/1606986-Kowton) while touring constantly and also completing my masters.
+- As someone who has been self-employed for the past ten years I have learnt to manage my time each day to maximise my productivity. In this time I've released [30+ records](https://www.discogs.com/artist/1606986-Kowton) while touring constantly and also completing a masters.
 
 #### Commitment
-- Having decided to embark on a life as a developer I invested £8k from my own pocket in attending the Makers Academy bootcamp. I completed the course while maintaining a reduced touring schedule only missing one days attendance due to flight cancellations.
+- Having decided to embark on a life as a developer I invested £8k from my own pocket in attending the [Makers Academy](http://www.makersacademy.com/) bootcamp. I completed the course while maintaining a reduced touring schedule, only missing one day of attendance due to flight cancellations.
 
 #### Vision
-- I helped to grow the record label I co-founded [(Livity Sound)](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase. We achieved this by making bold stylistic choices and ensuring our product was always as strong as possible, both in terms of music and presentation.
+- I have helped to grow the record label I co-founded [(Livity Sound)](https://livitysound.bandcamp.com/) from an embryonic idea to an [internationally recognised record](https://www.residentadvisor.net/features/1970) label with a global fanbase. We achieved this by making bold stylistic choices and ensuring our product was always as strong as possible, both in terms of music and presentation.
 
-#### Responsible
-Across the able and personal accounts I handled a combined social media reach of approximately 70k. Since 2014 I've hosted and produced a monthly show on London institution [NTS Radio](https://www.nts.live/shows/livity-sound) known for introducing new talent to listeners.
+#### Perseverance
+- [Live performance](http://www.bbc.co.uk/programmes/b07gndrb) has taught me a huge amount about resilience to everything from pressure and expectation to failure and criticism. Being able to stay objective in the face of negative situations is a strength I have had to learn, but it is something I feel is equally applicable in development as it is music.
 
 ## Work Experience
 
