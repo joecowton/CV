@@ -17,8 +17,8 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 |---        |---         |---           |
 |[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing using Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was. | JavaScript, Jasmine |
 |[Weather App](https://github.com/joecowton/react-redux-weather) | An app to display a five day forecast for a specific location. Fetchs data from a remote API using a Redux action creator and renders via React.| React, Redux, Mocha, Chai |
-|[TDD-Express-API](https://github.com/joecowton/TDD-EXPRESS-API) | In depth expoloration of testing in Node-Express, examining both Mongoose routes and API repsonses as both a learning excercise which serves as a reference point for testing future back end projects. | Node, Express, Mocha, Chai |  
-|[Discogs Reducer](https://github.com/joecowton/discogs-db)| Individual side project demonstrating knowledge of Express, React, Redux and Mongo DB. Uses both a local database and remote API to provide a fast and clean music listing and listening experience. | React, Node.js, Redux, Redux-Form, Redux-Router, Google OAuth, MongoDB |
+|[TDD-Express-API](https://github.com/joecowton/TDD-EXPRESS-API) | In depth expoloration of testing in Node-Express, examining both Mongoose routes and API repsonses as both a learning excercise which serves as a reference point for testing future back end projects. | Node, Express, Mongo DB, Mocha, Chai |  
+|[Discogs Reducer](https://github.com/joecowton/discogs-db)| Individual side project demonstrating knowledge of Express, React, Redux and Mongo DB. Uses both a local database and remote API to provide a fast and clean music listing and listening experience. | React, Redux-Router, Google OAuth, MongoDB |
 
 ## Education
 
