@@ -5,7 +5,7 @@
 
 I am a focused and ambitious Junior Full Stack Developer, seeking a role in which I can expand and develop my programming knowledge while finding an area of expertise.
 
-I've recently completed an intensive four month software development course at [Makers Academy](http://www.makersacademy.com/). During this time I have worked hard on best practices and TDD approaches to development, and vastly expanded my understanding of contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code. I'm constantly learning new skills and I'm incredibly excited to see where life as a developer can take me.
+I've recently completed an intensive four month software development course at [Makers Academy](http://www.makersacademy.com/). During this time I have worked hard on best practices and TDD approaches to development, and vastly expanded my understanding of contemporary software frameworks and databases. I've been paired each day with people of all abilities and taken great satisfaction from the Academy's culture of accelerated learning and focus on writing clear and concise code. Since graduating from Makers I've focused on teaching myself Node-Express, React and Redux and related testing software. I'm constantly learning new skills and I'm incredibly excited to see where life as a developer can take me.
 
 I have an MSc in Music Technology, the thesis for which I developed a machine learning algorithm to extract rhythmic elements from acoustic music using FFT analysis. Since 2008 I’ve earned a living as an electronic musician: touring the world several times over and working with some of the most respected names in underground music. I've broadcast live on [Radio 1](http://www.bbc.co.uk/programmes/b03f5w84) a number of times and featured on the cover of [The Wire](https://www.thewire.co.uk/shop/back-issues/issue_355-26647) magazine.
 
@@ -15,9 +15,10 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-|[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing in Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was, this felt like something of a breakthrough. | JavaScript, Jasmine |
+|[Bank](https://github.com/joecowton/bank)| A bank tech-test written in JS with extensive testing using Jasmine. Though a relatively simple task I was particularly proud of how clean and to the point the code was. | JavaScript, Jasmine |
 |[Weather App](https://github.com/joecowton/react-redux-weather) | An app to display a five day forecast for a specific location. Fetchs data from a remote API using a Redux action creator and renders via React.| React, Redux, Mocha, Chai |
-|[FooDeals](https://github.com/joecowton/foodie)| A group project intended to help with food wastage by retailers. I created remote database using MongoDB and a series of Express routes by which to access it.| React, Node.js, Google OAuth, MongoDB |
+|[TDD-Express-API](https://github.com/joecowton/TDD-EXPRESS-API) | In depth expoloration of testing in Node-Express, examining both Mongoose routes and API repsonses as both a learning excercise which serves as a reference point for testing future back end projects. | Node, Express, Mocha, Chai |  
+|[Discogs Reducer](https://github.com/joecowton/discogs-db)| Individual side project demonstrating knowledge of Express, React, Redux and Mongo DB. Uses both a local database and remote API to provide a fast and clean music listing and listening experience. | React, Node.js, Redux, Redux-Form, Redux-Router, Google OAuth, MongoDB |
 
 ## Education
 
@@ -25,9 +26,9 @@ For a complete list, see my [GitHub](https://github.com/joecowton)
 
 An intensive four month course which focused on:
 - Object oriented programming in [Ruby](https://github.com/joecowton/rps-challenge) and [Javascript](https://github.com/joecowton/bank).
-- Test driven development using [Jasmine](https://github.com/joecowton/gilded-rose), [Capybara](https://github.com/joecowton/makersbnb) and RSpec.
+- Test driven development using [Jasmine](https://github.com/joecowton/gilded-rose), Capybara and RSpec.
 - Pair programming and working in groups, learning to project share on Github.
-- Using [Node-Express](https://github.com/joecowton/foodie) and [Rails](https://github.com/joecowton/instagram-challenge) to create back-end servers.
+- Using [Node-Express](https://github.com/joecowton/TDD-EXPRESS-API) and [Rails](https://github.com/joecowton/instagram-challenge) to create back-end servers.
 - Front end development using React and [Redux](https://github.com/joecowton/react-redux-weather) to store data in state.
 - Working with databases using both [Sequelize](https://github.com/joecowton/database-express) and [PostgreSQL](https://github.com/joecowton/database-express), and Mongoose and MongoDB.
 - Hosting databases remotely using mLAb and ElephantSQL.
